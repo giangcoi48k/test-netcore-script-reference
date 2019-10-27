@@ -9,7 +9,7 @@ using ScriptReference.Properties;
 namespace ScriptReference.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("js/script-reference.js")]
     public class ScriptController : ControllerBase
     {
         [HttpGet]
